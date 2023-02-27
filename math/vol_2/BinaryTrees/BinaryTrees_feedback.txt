@@ -1,0 +1,38 @@
+10/13/20 15:47
+
+binary_trees.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+10/20/20 15:18
+
+binary_trees.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+10/26/20 08:21
+
+Problem 1 (5 points):
+SinglyLinkedList.recursive_find() failed to raise a ValueError (got an AttributeError instead)
+AttributeError: 'NoneType' object has no attribute 'value'
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (25 points):
+Score += 25
+
+Problem 4 (5 points):
+ValueError: Data is already in the tree
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+
+Comments:
+	Good job!
+
+-------------------------------------------------------------------------------
+

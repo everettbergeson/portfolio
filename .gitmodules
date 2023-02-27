@@ -1,0 +1,12 @@
+[submodule "volume4"]
+	path = volume4
+	url = https://everettbergeson@bitbucket.org/everettbergeson/volume4.git
+[submodule "volume3"]
+	path = volume3
+	url = https://everettbergeson@bitbucket.org/everettbergeson/volume3.git
+[submodule "volume-1"]
+	path = volume-1
+	url = https://everettbergeson@bitbucket.org/everettbergeson/volume-1.git
+[submodule "volume-2"]
+	path = volume-2
+	url = https://everettbergeson@bitbucket.org/everettbergeson/volume-2.git

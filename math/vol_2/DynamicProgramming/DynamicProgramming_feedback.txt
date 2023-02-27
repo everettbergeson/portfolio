@@ -1,0 +1,38 @@
+04/06/21 16:48
+
+dynamic_programming.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+04/08/21 09:21
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+TypeError: Invalid return type 'NoneType'
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

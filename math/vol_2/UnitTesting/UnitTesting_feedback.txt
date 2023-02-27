@@ -1,0 +1,32 @@
+09/28/20 21:09
+
+specs.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+10/05/20 20:23
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+is_set() failed for cards 0120, 1201, 2012
+is_set() failed for cards 1000, 2000, 0000
+is_set() failed for cards 0000, 1111, 2220
+Score += 7
+
+Coverage (20 points):
+Score += 20
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

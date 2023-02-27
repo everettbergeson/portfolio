@@ -1,0 +1,21 @@
+12/09/21 14:51
+
+Problem 1 (14 points):
+Score += 14
+
+Problem 2 (16 points):
+Score += 16
+
+Problem 3 (15 points):
+-1 pt graph incorrect
+Score += 14
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

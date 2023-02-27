@@ -1,0 +1,94 @@
+04/03/21 13:05
+
+Problem 1 (5 points):
+Result set is missing the following:
+	'Gilbert Chapman'
+	'Mercedes Hall'
+	'Alfonso Phelps'
+Result set should not include the following:
+	('Gilbert Chapman',)
+	('Mercedes Hall',)
+	('Alfonso Phelps',)
+Score += 0
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Result set is missing the following:
+	'Calculus'
+	'English'
+Result set should not include the following:
+	('Calculus',)
+	('English',)
+Score += 0
+
+Problem 4 (10 points):
+Result set is missing the following:
+	(None, 3)
+Score += 8
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Result set is missing the following:
+	('Rene Cross', 1, 4.0)
+	('Sammy Burke', 2, 3.85)
+	('Gilbert Chapman', 3, 3.6666666666666665)
+	('Kristopher Tran', 2, 3.2)
+	('Mercedes Hall', 3, 2.6666666666666665)
+	('Cameron Kim', 3, 2.566666666666667)
+	('Alfonso Phelps', 2, 2.5)
+	('Michelle Fernandez', 2, 2.35)
+	('Cassandra Holland', 2, 2.2)
+	('Roberta Cook', 1, 2.0)
+Result set should not include the following:
+	('Rene Cross', 4.0)
+	('Sammy Burke', 3.85)
+	('Gilbert Chapman', 3.6666666666666665)
+	('Kristopher Tran', 3.2)
+	('Mercedes Hall', 2.6666666666666665)
+	('Cameron Kim', 2.566666666666667)
+	('Alfonso Phelps', 2.5)
+	('Michelle Fernandez', 2.35)
+	('Cassandra Holland', 2.2)
+	('Roberta Cook', 2.0)
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 28/50 = 56.0%
+
+-------------------------------------------------------------------------------
+
+04/06/21 09:17
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

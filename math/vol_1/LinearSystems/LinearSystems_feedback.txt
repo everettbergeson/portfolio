@@ -1,0 +1,169 @@
+10/19/20 01:14
+
+Problem 1 (10 points):
+TypeError: Invalid return type 'NoneType'
+
+Problem 2 (10 points):
+ValueError: lu() failed to return two arrays
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (5 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (5 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 5/50 = 10.0%
+
+-------------------------------------------------------------------------------
+
+10/24/20 14:52
+
+Problem 1 (10 points):
+TypeError: Invalid return type 'NoneType'
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+
+- - - - - - - - - - - - - - - - - - - - 
+A =
+[[6. 7. 8.]
+ [4. 0. 2.]
+ [2. 1. 5.]]
+b =
+[8. 1. 1.]
+solve() failed
+	Correct response:
+[ 0.315  1.022 -0.13 ]
+	Student response:
+[6.96031746031746, 1.2346938775510206, -0.13043478260869568]
+
+- - - - - - - - - - - - - - - - - - - - 
+A =
+[[8. 3. 3. 5.]
+ [4. 8. 2. 6.]
+ [6. 4. 5. 0.]
+ [6. 5. 1. 4.]]
+b =
+[1. 7. 4. 2.]
+solve() failed
+	Correct response:
+[-0.628  0.84   0.882  0.172]
+	Student response:
+[-2.4613970588235294, 1.240950226244344, -0.6137543252595156, 0.17175572519083968]
+
+- - - - - - - - - - - - - - - - - - - - 
+A =
+[[8. 4. 4. 5. 0.]
+ [6. 9. 5. 6. 0.]
+ [2. 4. 9. 8. 5.]
+ [7. 9. 2. 8. 9.]
+ [4. 2. 5. 8. 9.]]
+b =
+[1. 0. 9. 5. 1.]
+solve() failed
+	Correct response:
+[  4.264   2.907   9.714 -16.72    7.035]
+	Student response:
+[-9.78608630952381, -6.6008184523809526, 1.1456772511636228, 29.21283299476762, 7.03525954946131]
+Score += 0
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+	Failed to return a scipy.sparse matrix
+	Failed to return a scipy.sparse matrix
+Score += 0
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 25/50 = 50.0%
+
+-------------------------------------------------------------------------------
+
+11/10/20 08:25
+
+Problem 1 (10 points):
+TypeError: Invalid return type 'NoneType'
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+
+- - - - - - - - - - - - - - - - - - - - 
+A =
+[[5. 9. 5.]
+ [2. 8. 1.]
+ [1. 6. 7.]]
+b =
+[9. 0. 7.]
+solve() failed
+	Correct response:
+[ 1.523 -0.536  1.242]
+	Student response:
+[-0.3563636363636377, 1.1446280991735538, 1.2418300653594774]
+
+- - - - - - - - - - - - - - - - - - - - 
+A =
+[[5. 0. 6. 3.]
+ [4. 9. 9. 3.]
+ [0. 7. 6. 7.]
+ [0. 5. 3. 5.]]
+b =
+[5. 9. 4. 7.]
+solve() failed
+	Correct response:
+[ 4.048  1.968 -3.222  1.365]
+	Student response:
+[-1.650406504065041, 0.22402890695573635, -9.986714257386476, 1.3650793650793651]
+
+- - - - - - - - - - - - - - - - - - - - 
+A =
+[[5. 2. 8. 7. 7.]
+ [1. 5. 8. 7. 1.]
+ [2. 1. 1. 8. 5.]
+ [4. 3. 6. 9. 5.]
+ [3. 2. 5. 9. 4.]]
+b =
+[4. 4. 3. 4. 4.]
+solve() failed
+	Correct response:
+[-0.289 -0.136  0.3    0.349  0.125]
+	Student response:
+[-0.11493516399694742, 0.5783172486983059, -3.543859649122807, 0.7426900584795325, 0.12500000000000008]
+Score += 0
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+	Failed to return a scipy.sparse matrix
+	Failed to return a scipy.sparse matrix
+Score += 0
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 25/50 = 50.0%
+
+-------------------------------------------------------------------------------
+

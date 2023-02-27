@@ -1,0 +1,42 @@
+11/26/20 12:35
+
+data_visualization.ipynb has not been modified yet
+
+-------------------------------------------------------------------------------
+
+11/30/20 23:41
+
+data_visualization.ipynb has not been modified yet
+
+-------------------------------------------------------------------------------
+
+12/05/20 00:15
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+One question not answered
+Score += 7
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,21 @@
+03/08/21 22:09
+
+simplex.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+03/15/21 19:02
+
+Problems 1-5 (35 points):
+Score += 35
+
+Problem 6 (10 points):
+TypeError: unsupported operand type(s) for *: 'float' and 'NoneType'
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+

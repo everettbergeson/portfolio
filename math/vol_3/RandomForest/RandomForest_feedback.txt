@@ -1,0 +1,32 @@
+10/18/21 23:59
+
+Problem 1 (5 points):
+ValueError: operands could not be broadcast together with shapes (15,7) (85,7) 
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+wrong info gain with min_samples_leaf
+wrong question with min_samples_leaf
+Score += 2
+
+Problems 4 & 5 (10 points):
+Score += 10
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+Score += 10
+
+Problem 8 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 42/50 = 84.0%
+
+-------------------------------------------------------------------------------
+

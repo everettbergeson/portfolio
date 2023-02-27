@@ -1,0 +1,24 @@
+09/22/21 17:37
+
+Problem 1 (9 points):
+Score += 9
+
+Problem 2 (9 points):
+Score += 9
+
+Problem 3 (12 points):
+Score += 12
+
+Problem 4 (15 points):
+Score += 15
+
+Code Quality (5 points):
+-1 pt mostly unlabeled graphs (see lab pdf)
+Score += 4
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

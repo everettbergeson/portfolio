@@ -1,0 +1,29 @@
+02/26/21 14:20
+
+montecarlo_integration.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+03/02/21 10:10
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+Score += 15
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

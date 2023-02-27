@@ -1,0 +1,20 @@
+12/02/21 16:27
+
+Problem 1 (13 points):
+Score += 13
+
+Problem 2 (15 points):
+-2 pts incorrect plot height
+Score += 13
+
+Problem 3 (17 points):
+-2 pts incorrect error loop, -6 pts no graph
+Score += 9
+
+code quality  (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,67 @@
+01/22/21 14:44
+
+sympy_intro.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+01/22/21 15:18
+
+sympy_intro.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+01/22/21 15:29
+
+sympy_intro.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+01/22/21 15:53
+
+sympy_intro.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+01/22/21 15:57
+
+sympy_intro.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+01/27/21 13:48
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+e^(-y^2) is not clearly marked
+Same as above
+Score += 3
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+TypeError: prob6() failed to return anything
+
+Problem 7 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 38/50 = 76.0%
+
+-------------------------------------------------------------------------------
+
++5 for problem 6 plot
++1 for code to find minima/maxima
+44/50 = 88.0%
+
+-------------------------------------------------------------------------------

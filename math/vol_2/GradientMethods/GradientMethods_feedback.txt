@@ -1,0 +1,99 @@
+03/01/21 22:32
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+NotImplementedError: Problem 2 Incomplete
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problems 5 and 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Not implemented
+Score += 0
+
+Total score: 10/50 = 20.0%
+
+-------------------------------------------------------------------------------
+
+03/02/21 19:36
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+NotImplementedError: Problem 2 Incomplete
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+UnboundLocalError: local variable 'xsol' referenced before assignment
+
+Problems 5 and 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Not implemented
+Score += 0
+
+Total score: 10/50 = 20.0%
+
+-------------------------------------------------------------------------------
+
+03/03/21 14:06
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+NotImplementedError: Problem 2 Incomplete
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problems 5 and 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Not implemented
+Score += 0
+
+Total score: 10/50 = 20.0%
+
+-------------------------------------------------------------------------------
+
+03/31/21 22:49
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+NotImplementedError: Problem 2 Incomplete
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problems 5 and 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 15/50 = 30.0%
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,50 @@
+02/12/21 15:01
+
+conditioning_stability.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+02/19/21 14:21
+
+conditioning_stability.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+02/23/21 09:54
+
+conditioning_stability.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+04/22/21 10:59
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+TypeError: prob2() failed to return anything
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Plot domain is labelled incorrectly (should be [-100, 100] x [-100, 100])
+Score += 4
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 39/50 = 78.0%
+
+
+Comments:
+	Great work this semester!
+
+-------------------------------------------------------------------------------
+

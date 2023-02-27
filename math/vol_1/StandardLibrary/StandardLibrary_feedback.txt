@@ -1,0 +1,256 @@
+09/15/20 17:49
+
+standard_library.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+09/18/20 20:02
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+TypeError: prob2() missing 5 required positional arguments: 'int_mut', 'str_mut', 'list_mut', 'tuple_mut', and 'set_mut'
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+power_set(A) failed
+TypeError: argument of type 'NoneType' is not iterable
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+
+09/19/20 14:27
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+TypeError: prob2() missing 5 required positional arguments: 'int_mut', 'str_mut', 'list_mut', 'tuple_mut', and 'set_mut'
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+power_set(A) failed
+TypeError: argument of type 'NoneType' is not iterable
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+
+09/21/20 14:17
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+TypeError: prob2() missing 5 required positional arguments: 'int_mut', 'str_mut', 'list_mut', 'tuple_mut', and 'set_mut'
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+power_set(A) failed
+TypeError: argument of type 'NoneType' is not iterable
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+
+09/21/20 14:26
+
+TypeError while loading 'standard_library.py': prob2() missing 5 required positional arguments: 'int_mut', 'str_mut', 'list_mut', 'tuple_mut', and 'set_mut'
+
+-------------------------------------------------------------------------------
+
+09/21/20 14:26
+
+TypeError while loading 'standard_library.py': prob2() missing 5 required positional arguments: 'int_mut', 'str_mut', 'list_mut', 'tuple_mut', and 'set_mut'
+
+-------------------------------------------------------------------------------
+
+09/21/20 14:27
+
+NameError while loading 'standard_library.py': name 'int_mut' is not defined
+
+-------------------------------------------------------------------------------
+
+09/21/20 14:27
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+power_set(A) failed
+TypeError: argument of type 'NoneType' is not iterable
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+
+Comments:
+	5
+
+-------------------------------------------------------------------------------
+
+09/21/20 14:29
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+power_set(A) failed
+TypeError: argument of type 'NoneType' is not iterable
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+09/21/20 14:29
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+power_set(A) failed
+TypeError: argument of type 'NoneType' is not iterable
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+09/21/20 14:31
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+09/21/20 14:56
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+09/21/20 14:59
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

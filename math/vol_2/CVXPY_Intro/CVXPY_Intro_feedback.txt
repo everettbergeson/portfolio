@@ -1,0 +1,89 @@
+03/15/21 19:09
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+TypeError: Invalid return type 'NoneType'
+
+Problem 3 (5 points):
+TypeError: cannot unpack non-iterable NoneType object
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (15 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 10/50 = 20.0%
+
+-------------------------------------------------------------------------------
+
+03/31/21 22:18
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+TypeError: Invalid return type 'NoneType'
+
+Problem 3 (5 points):
+TypeError: cannot unpack non-iterable NoneType object
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (15 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 10/50 = 20.0%
+
+-------------------------------------------------------------------------------
+
+04/23/21 12:31
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Incorrect optimizer
+	Correct response: [-1.5  1.  -0.5]
+	Student response: [-1.5  1.5 -1.5]
+Incorrect optimial value
+	Correct response: -2.5000000000000018
+	Student response: -4.500000000000003
+Score += 0
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

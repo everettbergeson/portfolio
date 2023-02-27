@@ -1,0 +1,99 @@
+09/18/20 17:19
+
+object_oriented.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+09/18/20 20:15
+
+object_oriented.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+09/19/20 14:35
+
+object_oriented.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+09/22/20 12:48
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+ComplexNumber.__str__() failed for b >= 0
+ComplexNumber.__str__() failed for b < 0
+	Correct response: '(-28-50j)'
+	Student response: '-28-50i'
+Score += 13
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+09/23/20 12:00
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+ComplexNumber.__str__() failed for b >= 0
+ComplexNumber.__str__() failed for b < 0
+	Correct response: '(34-43j)'
+	Student response: '34-43i'
+Score += 13
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+09/29/20 09:49
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+ComplexNumber.__str__() failed for b >= 0
+ComplexNumber.__str__() failed for b < 0
+	Correct response: '(0-35j)'
+	Student response: '0-35i'
+Score += 13
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

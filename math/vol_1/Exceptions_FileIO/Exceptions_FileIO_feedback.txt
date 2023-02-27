@@ -1,0 +1,47 @@
+09/28/20 11:03
+
+exceptions_fileIO.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+09/29/20 08:21
+
+exceptions_fileIO.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+09/29/20 08:46
+
+exceptions_fileIO.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+09/29/20 09:53
+
+exceptions_fileIO.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+12/17/20 15:41
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (25 points):
+ContentFilter.reverse() failed
+ContentFilter.transpose('_OUT_', mode='w') failed
+Score += 19
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 44/50 = 88.0%
+
+-------------------------------------------------------------------------------
+

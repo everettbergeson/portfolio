@@ -1,0 +1,38 @@
+11/14/20 15:16
+
+svd_image_compression.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+12/03/20 23:59
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+lowest_rank_approx() failed with error = 8.759271848560251 (showing ||A - Ahat||_2)
+	Correct response: 7.950921147205975
+	Student response: 15.145164163741127
+lowest_rank_approx() failed with error = 7.571261902226412 (showing ||A - Ahat||_2)
+	Correct response: 6.746234929206659
+	Student response: 26.725725626617894
+Score += 1
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

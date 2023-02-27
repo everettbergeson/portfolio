@@ -1,0 +1,20 @@
+03/03/22 19:03
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (20 points):
+Score += 20
+
+Problem 3 (20 points):
+Score += 20
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

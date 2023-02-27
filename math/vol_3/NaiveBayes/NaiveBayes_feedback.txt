@@ -1,0 +1,127 @@
+12/03/21 17:40
+
+File 'naive_bayes.py' not found!
+
+-------------------------------------------------------------------------------
+
+12/03/21 17:48
+
+File 'naive_bayes.py' not found!
+
+-------------------------------------------------------------------------------
+
+12/03/21 17:52
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (2 points):
+Score += 2
+
+Problem 4 (3 points):
+Didn't meet a tolerance of 500
+	Correct response: [[-106.37  -229.309]
+ [-157.12  -545.552]
+ [ -39.696  -77.653]
+ [ -35.893 -158.055]
+ [ -41.274 -116.849]
+ [ -31.277  -67.822]
+ [-426.163 -219.712]
+ [ -45.716  -92.496]
+ [-406.507 -158.96 ]
+ [-362.833  -85.735]]
+	Student response:         spam         ham
+0       -inf -106.370225
+1       -inf -157.120413
+2       -inf  -39.695764
+3       -inf  -35.893300
+4       -inf  -41.273627
+5       -inf  -31.277057
+6       -inf        -inf
+7       -inf  -45.715752
+8       -inf        -inf
+9 -85.734988        -inf
+ValueError: Can only compare identically-labeled Series objects
+
+Problem 5 (10 points):
+Array not formed properly
+	Correct response: [38  6]
+	Student response: [ 6 38]
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Problem 8 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 42/50 = 84.0%
+
+-------------------------------------------------------------------------------
+
+12/03/21 19:52
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (2 points):
+Score += 2
+
+Problem 4 (3 points):
+Didn't meet a tolerance of 500
+	Correct response: [[-106.37  -229.309]
+ [-157.12  -545.552]
+ [ -39.696  -77.653]
+ [ -35.893 -158.055]
+ [ -41.274 -116.849]
+ [ -31.277  -67.822]
+ [-426.163 -219.712]
+ [ -45.716  -92.496]
+ [-406.507 -158.96 ]
+ [-362.833  -85.735]]
+	Student response:         spam         ham
+0       -inf -106.370225
+1       -inf -157.120413
+2       -inf  -39.695764
+3       -inf  -35.893300
+4       -inf  -41.273627
+5       -inf  -31.277057
+6       -inf        -inf
+7       -inf  -45.715752
+8       -inf        -inf
+9 -85.734988        -inf
+ValueError: Can only compare identically-labeled Series objects
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Problem 8 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,50 @@
+10/05/20 10:51
+
+linear_transformations.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+10/11/20 13:27
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (15 points):
+TypeError: solar_system() got an unexpected keyword argument 'x_e'
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 15/50 = 30.0%
+
+-------------------------------------------------------------------------------
+
+10/13/20 10:31
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

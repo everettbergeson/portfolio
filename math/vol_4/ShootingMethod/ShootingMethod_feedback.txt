@@ -1,0 +1,44 @@
+03/03/22 18:45
+
+Problem 1 (10 points):
+Score += 0
+
+Problem 2 (15 points):
+Score += 0
+
+Problem 3 (20 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+
+Comments:
+	incomplete
+
+-------------------------------------------------------------------------------
+
+03/10/22 11:41
+
+Problem 1 (10 points):
+Score += 0
+
+Problem 2 (15 points):
+Score += 0
+
+Problem 3 (20 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+
+Comments:
+	incomplete
+
+-------------------------------------------------------------------------------
+
